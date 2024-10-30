@@ -1,0 +1,1 @@
+select * from dbt_db.dbt_schema.emp_details
